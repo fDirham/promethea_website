@@ -5,6 +5,17 @@
   font-family: "Inknut Antiqua", serif;
 }
 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 /* @media (prefers-color-scheme: dark) {
   :root {
     --app-background-color: #1a1a1a;
@@ -32,13 +43,15 @@ main {
   flex-direction: column;
   padding: 20px;
   padding-top: 60px;
-  padding-bottom: 200px;
+  padding-bottom: 120px;
 }
 
 .hero-img {
   width: 360px;
   margin-bottom: 3rem;
   align-self: center;
+  opacity: 0;
+  animation: fadeIn 0.8s ease forwards;
 }
 
 .hero-emojis {
@@ -47,6 +60,8 @@ main {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
+  opacity: 0;
+  animation: fadeIn 0.8s ease forwards;
 }
 
 .hero-title {
@@ -54,6 +69,8 @@ main {
   font-size: 1.5rem;
   margin-bottom: 1rem;
   line-height: 3rem;
+  opacity: 0;
+  animation: fadeIn 0.8s ease forwards;
 }
 
 .hero-subtitle {
@@ -61,6 +78,8 @@ main {
   font-size: 1rem;
   line-height: 2.5rem;
   font-weight: normal;
+  opacity: 0;
+  animation: fadeIn 0.8s ease 0.8s forwards;
 }
 
 .hero-button {
@@ -76,12 +95,16 @@ main {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
   align-self: center;
+  opacity: 0;
+  animation: fadeIn 0.8s ease 0.8s forwards;
 }
 
 .hero-link {
   text-align: center;
   color: var(--app-foreground-color);
   margin-bottom: 2rem;
+  opacity: 0;
+  animation: fadeIn 0.8s ease 0.8s forwards;
 }
 
 p {
