@@ -1,3 +1,4 @@
+import EmailIcon from "./icons/EmailIcon";
 import TikTokIcon from "./icons/TikTokIcon";
 import YouTubeIcon from "./icons/YouTubeIcon";
 
@@ -7,6 +8,7 @@ const GET_NOTIFIED_URL =
 const HERO_IMG_URL = "/hero-img.png";
 const TIKTOK_URL = "https://tiktok.com/@fbdreads";
 const YT_URL = "https://youtube.com/@fbdwrites";
+const EMAIL_URL = "mailto:fajarletters@gmail.com";
 
 function App() {
   return (
@@ -86,6 +88,9 @@ function App() {
           </a>
           <a href={YT_URL} target="_blank" className="social-icon">
             <YouTubeIcon />
+          </a>
+          <a href={EMAIL_URL} target="_blank" className="social-icon">
+            <EmailIcon />
           </a>
         </div>
       </main>

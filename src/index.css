@@ -41,7 +41,7 @@ main {
   width: 500px;
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding: 2rem;
   padding-top: 60px;
   padding-bottom: 120px;
 }
