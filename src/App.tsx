@@ -61,8 +61,8 @@ function App() {
           being born into royalty, he'll soon be drafted into military service.
           Sure, he's handsome and charming, but he's also frail and cowardly.
           Fighting in the front will end with him getting devoured by the Swarm.
-          But, if he were to enter an elite war-academy, he could graduate into
-          an interior posting upon graduation. Unfortunately, war-academies
+          But, if he were to enter an elite war-academy, he could land an
+          interior posting upon graduation. Unfortunately, war-academies
           typically don't admit boys, unless they somehow run the Labyrinth.
         </p>
         <p>
