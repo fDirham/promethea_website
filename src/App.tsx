@@ -22,13 +22,13 @@ function App() {
         </div>
         <h1 className="hero-title">PROMETHEA</h1>
         <h2 className="hero-subtitle">
-          In a matriarchal, Spartan-inspired world, an ambitious orphan girl
-          enters an elite war academy, where promising students have been
-          mysteriously disappearing.
+          In a matriarchal, Sparta-inspired world, an ambitious orphan enters an
+          elite war-academy on her quest for greatness.
           <br />
           <br />
-          There, she faces her deadliest rival yet: a handsome manipulative
-          prince who she hates with all her heart.
+          There, she must undergo deadly trials, discover why promising students
+          are disappearing, and battle her toughest rival yet: a handsome,
+          manipulative prince.
         </h2>
 
         <a className="hero-button" href={GET_NOTIFIED_URL} target="_blank">
@@ -47,27 +47,27 @@ function App() {
         </p>
         <p>
           <b>IN PETRAPOLIS</b> women think, men serve. For hundreds of years,
-          women have utilized their intellectual, emotional, and social prowess
-          to lead humanity, creating a thriving society based on equality,
+          women have used their intellectual, emotional, and social prowess to
+          lead humanity, creating a thriving society based on equality,
           sisterhood, and cooperation. A society heavily inspired by ancient
           Sparta. Men have been given the equally important role of becoming
           warriors. Strong, handsome men might even become husbands.
         </p>
         <p>
-          <b>JUNA RHOMAIA</b> wants desperately to get into an elite
-          war-academy. She's an orphan, a non-citizen, who learned to fit into
-          Petriate society by being strong and ruthless. Entering war-academy is
-          her first step towards citizenship and a future political career. To
-          ensure her admission, she must run the Kretan Labyrinth: a deadly
-          trial that pits sister against sister, humanity against the Swarm.
+          <b>JUNA</b> wants desperately to get into an elite war-academy. She's
+          an orphan, a non-citizen, who learned to fit into Petriate society by
+          being strong and ruthless. Entering war-academy is her first step
+          towards citizenship and a future political career. To ensure her
+          admission, she must run the Kretan Labyrinth: a deadly trial that pits
+          sister against sister, humanity against the Swarm.
         </p>
         <p>
-          <b>GANYMEDE EPIMEDES</b> needs to find out how to survive. Despite
-          being born into royalty, he'll soon be drafted into military service.
-          Sure, he's handsome and charming, but he's also frail and cowardly.
-          Fighting in the front will end with him getting devoured by the Swarm.
-          But, if he were to enter an elite war-academy, he could land an
-          interior posting upon graduation. Unfortunately, war-academies
+          <b>GANYMEDE, DESCENDANT OF MEDEA</b> needs to find out how to survive.
+          Despite being born into royalty, he'll soon be drafted into military
+          service. Sure, he's handsome and charming, but he's also frail and
+          cowardly. Fighting in the front will end with him getting devoured by
+          the Swarm. But, if he were to enter an elite war-academy, he could
+          land an interior posting upon graduation. Unfortunately, war-academies
           typically don't admit boys, unless they somehow run the Labyrinth.
         </p>
         <p>
