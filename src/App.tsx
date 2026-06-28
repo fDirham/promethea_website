@@ -22,8 +22,8 @@ function App() {
         </div>
         <h1 className="hero-title">PROMETHEA</h1>
         <h2 className="hero-subtitle">
-          In a matriarchal, Sparta-inspired world, an ambitious orphan enters an
-          elite war-academy on her quest for greatness.
+          In a matriarchal, Sparta-inspired world, an ambitious orphan girl
+          enters an elite war-academy, chasing her dreams of greatness.
           <br />
           <br />
           There, she must undergo deadly trials, discover why promising students
