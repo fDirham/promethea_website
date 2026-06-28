@@ -24,8 +24,11 @@ function App() {
         <h2 className="hero-subtitle">
           In a matriarchal, Spartan-inspired world, an ambitious orphan girl
           enters an elite war academy, where promising students have been
-          mysteriously disappearing. There, she faces her deadliest rival yet: a
-          handsome manipulative prince who she hates with all her heart.
+          mysteriously disappearing.
+          <br />
+          <br />
+          There, she faces her deadliest rival yet: a handsome manipulative
+          prince who she hates with all her heart.
         </h2>
 
         <a className="hero-button" href={GET_NOTIFIED_URL} target="_blank">
