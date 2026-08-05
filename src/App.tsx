@@ -43,8 +43,11 @@ function App() {
           <b>IN PETRAPOLIS</b> women think, men serve. For hundreds of years,
           women have used their intellectual, emotional, and spiritual prowess
           to lead humanity, forging a thriving society inspired by classical
-          Sparta. Men have been granted the equally important role of being
-          warriors. Strong, handsome men might even become husbands.
+          Sparta.{" "}
+        </p>
+        <p>
+          Men have been granted the equally important role of being warriors.
+          Strong, handsome men might even become husbands.
         </p>
         <p>
           <b>JUNA</b> has only one goal in life: to die a great woman of
@@ -54,7 +57,7 @@ function App() {
         <p>
           Upon graduating the agoge, Juna sets her sights on the most
           prestigious war-academy in the world, Promethea. To get in, she must
-          run the Labyrinth. A deadly trial that pits sister against sister.
+          run the Labyrinth: a deadly trial that pits sister against sister.
           Humanity against the Swarm.
         </p>
         <p>But to run the Labyrinth, one needs a partner...</p>
