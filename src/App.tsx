@@ -21,8 +21,7 @@ function App() {
         <h1 className="hero-title">PROMETHEA</h1>
         <h2 className="hero-subtitle">
           In a matriarchal, Sparta-inspired world, an ambitious orphan girl
-          competes in an elite war-academy, to chase her dreams of greatness.
-          There, she faces her toughest rival yet: a handsome, manipulative
+          enters an elite war-academy, rivalling a handsome, manipulative
           prince.
         </h2>
 
@@ -44,24 +43,34 @@ function App() {
           <b>IN PETRAPOLIS</b> women think, men serve. For hundreds of years,
           women have used their intellectual, emotional, and spiritual prowess
           to lead humanity, forging a thriving society inspired by classical
-          Sparta. Men have been given the equally important role of becoming
+          Sparta. Men have been granted the equally important role of being
           warriors. Strong, handsome men might even become husbands.
         </p>
         <p>
-          <b>JUNA</b> wants desperately to get into Promethea, the best
-          war-academy in the world. She's an orphan, a non-citizen, who learned
-          to survive Petriate society by being bold and ruthless. Promethea is a
-          necessary step towards her citizenship and future political career. To
-          get in, she must run the Labyrinth: a deadly trial that pits sister
-          against sister, humanity against the Swarm.
+          <b>JUNA</b> has only one goal in life: to die a great woman of
+          history. She's an orphan, a non-citizen, who learned to survive
+          Petriate society by being strong and ruthless.
+        </p>
+        <p>
+          Upon graduating the agoge, Juna sets her sights on the most
+          prestigious war-academy in the world, Promethea. To get in, she must
+          run the Labyrinth. A deadly trial that pits sister against sister.
+          Humanity against the Swarm.
         </p>
         <p>But to run the Labyrinth, one needs a partner...</p>
         <p>
           <b>GANYMEDE, DESCENDANT OF MEDEA</b> is so handsome that it hurts. He
-          grew up alongside Juna, enduring her wrath after making the fatal
-          mistake of scorning her once. He survived by flexing his privileges as
-          a prince. He survived by seducing Juna's rivals to fight on his
-          behalf. Needless to say, he hates Juna...
+          grew up alongside Juna and made the fatal mistake of scorning her
+          once. And because Ganymede's weak — Ganymede's cowardly — Juna spent
+          his formative years tormenting him.
+        </p>
+        <p>
+          But he survived. Survived by flexing his privileges as a prince.
+          Survived by seducing Juna's rivals to fight on his behalf.
+        </p>
+        <p>
+          Ganymede has declared, repeatedly, that he wants nothing more than to
+          see Juna gone. To see Juna dead. To see Juna out of his life...
         </p>
         <p>
           Imagine Juna's surprise when she finds him in the Labyrinth, begging
