@@ -21,7 +21,7 @@ function App() {
         <h1 className="hero-title">PROMETHEA</h1>
         <h2 className="hero-subtitle">
           In a matriarchal, Sparta-inspired world, an ambitious orphan girl
-          enters an elite war-academy, rivalling a handsome, manipulative
+          enters an elite war-academy, where she rivals a charming, manipulative
           prince.
         </h2>
 
