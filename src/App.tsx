@@ -1,7 +1,6 @@
 import EmailIcon from "./icons/EmailIcon";
 import TikTokIcon from "./icons/TikTokIcon";
 
-const WRITING_SAMPLE_URL = "https://l.fajardirham.com/promethea_sample";
 const GET_NOTIFIED_URL =
   "https://docs.google.com/forms/d/e/1FAIpQLSfM80QQxU1Bpgsa9Pbwl3GhNycsi2COX2frc8ozbSTWWtKAJg/viewform?usp=publish-editor";
 const HERO_IMG_URL = "/hero-img.png";
@@ -29,10 +28,6 @@ function App() {
           <b>GET NOTIFIED</b>
         </a>
 
-        <a className="hero-link" href={WRITING_SAMPLE_URL} target="_blank">
-          writing sample
-        </a>
-
         <p>
           <b>
             An action-packed romantasy about sacrificing love for ambition by
@@ -52,13 +47,13 @@ function App() {
         <p>
           <b>JUNA</b> has only one goal in life: to die a great woman of
           history. She's an orphan, a non-citizen, who learned to survive
-          Petriate society by being strong and ruthless.
+          Petriate society by being bold and ruthless.
         </p>
         <p>
           Upon graduating the agoge, Juna sets her sights on the most
-          prestigious war-academy in the world, Promethea. To get in, she must
-          run the Labyrinth: a deadly trial that pits sister against sister.
-          Humanity against the Swarm.
+          prestigious war-academy in the world: Promethea. To get in, she must
+          run the Labyrinth, a deadly trial that pits sister against sister,
+          humanity against the Swarm.
         </p>
         <p>But to run the Labyrinth, one needs a partner...</p>
         <p>
@@ -93,9 +88,6 @@ function App() {
           <b>GET NOTIFIED</b>
         </a>
 
-        <a className="hero-link" href={WRITING_SAMPLE_URL} target="_blank">
-          writing sample
-        </a>
         <div className={"socials-container"}>
           <a href={TIKTOK_URL} target="_blank" className="social-icon">
             <TikTokIcon />
